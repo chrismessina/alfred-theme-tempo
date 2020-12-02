@@ -36,4 +36,4 @@ Simplify results by switching the result subtext to "Only for Alternative Action
 
 This theme is unaffiliated with nor endorsed by Tempo.
 
-<a href="https://www.alfredforum.com/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16261-tempo-inspired-theme/">Alfred Forum link</a>.
