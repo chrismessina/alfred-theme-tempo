@@ -8,6 +8,8 @@ Here is a [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) t
 
 ## Installation
 
+This theme uses [Rasmus Andersson's](https://rsms.me/) open source [Inter](https://rsms.me/inter/) typeface, and is available on [GitHub](https://github.com/rsms/inter). Download and install that first.
+
 Download the zip file above, unzip it, and then double-click each `.alfredappearance` file to install it.
 
 ## Previews
@@ -16,11 +18,9 @@ Download the zip file above, unzip it, and then double-click each `.alfredappear
 
 [![Tempo (Light) - Alfred Theme Preview](./assets/tempo-light.png)](./assets/tempo-light.png)
 
-This theme uses [Rasmus Andersson's](https://rsms.me/) open source [Inter](https://rsms.me/inter/) typeface, and is available on [GitHub](https://github.com/rsms/inter).
+### Tempo (Dark)
 
-<a href="https://github.com/chrismessina/alfred-theme-tempo/raw/main/alfred-theme-tempo.zip" class="button">
-  <bigger>Download Theme</bigger>
-</a>
+[![Tempo (Dark) - Alfred Theme Preview](./assets/tempo-dark.png)](./assets/tempo-dark.png)
 
 ## Suggested configuration
 
