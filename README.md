@@ -1,6 +1,6 @@
 # Tempo Powerpack Theme
 
-Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by the [Tempo](https://www.yourtempo.co/) email client's appearance and color scheme.
+Here are several [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) that are inspired by the [Tempo](https://www.yourtempo.co/) email client's appearance and color scheme.
 
 <a href="https://github.com/chrismessina/alfred-theme-tempo/raw/main/alfred-theme-tempo.zip" class="button">
   <bigger>Download Themes</bigger>
