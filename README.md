@@ -1,14 +1,14 @@
 # Tempo Powerpack Theme
 
-Here is a [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by the [Tempo](https://www.yourtempo.co/) email client's appearance and color scheme.
+Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by the [Tempo](https://www.yourtempo.co/) email client's appearance and color scheme.
 
 <a href="https://github.com/chrismessina/alfred-theme-tempo/raw/main/alfred-theme-tempo.zip" class="button">
-  <bigger>Download Theme</bigger>
+  <bigger>Download Themes</bigger>
 </a>
 
 ## Installation
 
-This theme uses [Rasmus Andersson's](https://rsms.me/) open source [Inter](https://rsms.me/inter/) typeface, and is available on [GitHub](https://github.com/rsms/inter). Download and install that first.
+These themes use [Rasmus Andersson's](https://rsms.me/) open source [Inter](https://rsms.me/inter/) typeface, which is available on [GitHub](https://github.com/rsms/inter). Download and install that first.
 
 Download the zip file above, unzip it, and then double-click each `.alfredappearance` file to install it.
 
@@ -21,6 +21,15 @@ Download the zip file above, unzip it, and then double-click each `.alfredappear
 ### Tempo (Dark)
 
 [![Tempo (Dark) - Alfred Theme Preview](./assets/tempo-dark.png)](./assets/tempo-dark.png)
+
+### Tempo Alternative (Light)
+
+[![Tempo Alternative (Light) - Alfred Theme Preview](./assets/tempo-light-alt.png)](./assets/tempo-light-alt.png)
+
+### Tempo Alternative (Dark)
+
+[![Tempo Alternative (Dark) - Alfred Theme Preview](./assets/tempo-dark-alt.png)](./assets/tempo-dark-alt.png)
+
 
 ## Suggested configuration
 
